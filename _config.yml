@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "#TCDXI"
+title: "#TCDXII"
 author: "Alex Gil"
 email: colibri.alex@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Our eleventh conference dedicated to Caribbean digital studies. Jamaica, 2024.
-baseurl: "/2024" # the subpath of your site, e.g. /blog
+  Our twelfth conference dedicated to Caribbean digital studies. Jamaica, 2025.
+baseurl: "/2025" # the subpath of your site, e.g. /blog
 url: "http://caribbeandigitalnyc.net" # the base hostname & protocol for your site
-twitter_username: elotroalex
+bsky_username: elotroalex
 github_username: elotroalex
 
 permalink: pretty
@@ -36,3 +36,6 @@ kramdown:
   enable_coderay: false
 
 exclude: [RAKEFILE]
+
+sass:
+  sass_dir: _sass
