@@ -4,6 +4,8 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
+## REMEMBER TO HIT THE PENCIL BUTTON TO EDIT
+
 ## Thursday, December 5
 
 ### Workshop: Minimal Computing for the UWI community
