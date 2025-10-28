@@ -15,25 +15,30 @@ Speakers: **Nicole Aljoe** (Northeastern University), **Alex Gil** (Yale Univers
 
 ### Opening showcase of Microgrant Awardees
 
-_12:15 PM–1:00 PM | Snell 160_  
+_12:15 PM–1:00 PM_ \| _Snell 160_  
 Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University)_  
 Speakers: **Kwynn Johnson** ( ); **Alexandra P. Gelbard** ( ); **Siobhan Meï** and **Jonathan Square** ( ); **Ronald Cummings** and **Linzey Corridon** ( ); **Claudina Sarahe Eusebia Gorashi** ( ); **Marie Cruz Soto** ( ) and **Alexandra Connelly Reyes** ( ); **Melanie Y. White** ( ) and **Nicole Ramsey** ( ); **Orlando Deavila Pertuz** ( )and **Jameelah Imani Morris** ( ); **Fidel Rodríguez Velásquez** ( )and **Oliver Antczak** ( ); **Marie-France Guillaume** ( ) and **Wandred Pierre** ( ); **Dexnell Peters** ( ) and **Philip Morgan** ( ), **C. Damian Valdés Santiago** ( ), **Lorena Hernández Valdés** ( ) and **Sophia Kitlinski** ( )
 
 ### Break
 
-_1:00 PM–1:15 PM | Snell 160_
+_1:00 PM–1:15 PM_ \| _Snell 160_
 
 ### Digital Slame
 
-_12:00 PM–12:15 PM | Snell 160_  
+_12:00 PM–12:15 PM_ \| _Snell 160_  
 Moderator: 
-Speakers/Presenters:**Rohan Sagar** (Future Generations University) "Encoding the Ritual: Baboon Dance as a Site of Convergence for Digital Humanities, Computational Ethnomusicology, Data Science, and Cultural Preservation"
+Presenters:
+**Rohan Sagar** (Future Generations University) 
+"Encoding the Ritual: Baboon Dance as a Site of Convergence for Digital Humanities, Computational Ethnomusicology, Data Science, and Cultural Preservation"
 
-Mariah Roman, Bas Fisher Invitational (BFI)GP, "Little Islands"
+**Mariah Roman** (Bas Fisher Invitational (BFI)GP) 
+"Little Islands"
 
-Jazmyn Jamil, Independent Artist, "QUILTED ARCHIVES: THE FABRICATION OF  TRUTH THROUGH  REIMAGINED QUEER JAMAICAN PASTS  THROUGH ART AND AI"
+**Jazmyn Jamil** (Independent Artist) 
+"Quilted Archives: The Fabrication Of  Truth Through  Reimagined Queer Jamaican Pasts  Through Art And AI"_  
 
-Jive Poetic, St Francis College, "Skip Tracer"
+**Jive Poetic** (St Francis College)
+"Skip Tracer"
 
 Hajjah Lennora Joyce Muti'ah Pierrot, Tuskegee University, "Digital Mothering and Caribbean Memory: Reimagining Archival Storytelling through Embracing Motherly Vibes"
 
