@@ -28,25 +28,25 @@ _1:00 PM–1:15 PM_ \| _Snell 160_
 _12:00 PM–12:15 PM_ \| _Snell 160_  
 Moderator: TBD
 Presenters:   
-**Rohan Sagar** (Future Generations University) 
+**Rohan Sagar** (Future Generations University)   
 "Encoding the Ritual: Baboon Dance as a Site of Convergence for Digital Humanities, Computational Ethnomusicology, Data Science, and Cultural Preservation"   
 
-**Mariah Roman** (Bas Fisher Invitational (BFI)GP) 
+**Mariah Roman** (Bas Fisher Invitational (BFI)GP)   
 "Little Islands"   
 
-**Jazmyn Jamil** (Independent Artist) 
+**Jazmyn Jamil** (Independent Artist)   
 "Quilted Archives: The Fabrication Of  Truth Through  Reimagined Queer Jamaican Pasts  Through Art And AI"   
 
-**Jive Poetic** (St Francis College)
+**Jive Poetic** (St Francis College)   
 "Skip Tracer"   
 
-**Hajjah Lennora Joyce Muti'ah Pierrot** (Tuskegee University) 
+**Hajjah Lennora Joyce Muti'ah Pierrot** (Tuskegee University)   
 "Digital Mothering and Caribbean Memory: Reimagining Archival Storytelling through Embracing Motherly Vibes"   
 
-**Katherine Parsons** (University of Birmingham) 
+**Katherine Parsons** (University of Birmingham)   
 "(Re-)Constituting an Archive with Stuart Hall: A Prototype for the Digital  Representation of Archival Knowledge"   
 
-**Amarlyis Ara** (Independent Scholar) 
+**Amarlyis Ara** (Independent Scholar)   
 "Vesta Cay"   
 
 ### Break
