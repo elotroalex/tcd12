@@ -11,19 +11,19 @@ permalink: /schedule/
 ### Welcome
 
 _12:00 PM–12:15 PM_ \| _Snell 160_  
-Speakers: **Nicole Aljoe** (Northeastern University), **Alex Gil** (Yale University), **Kaiama L Glover** (Yale University), **Kelly Baker Josephs** (University of Miami)
+Speakers: **Nicole Aljoe** (Northeastern University); **Alex Gil** (Yale University); **Kaiama L Glover** (Yale University); **Kelly Baker Josephs** (University of Miami)
 
 ### Opening showcase of Microgrant Awardees
 
 _12:15 PM–1:00 PM_ \| _Snell 160_  
-Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University)_  
+Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University)   
 Speakers: **Kwynn Johnson** ( ); **Alexandra P. Gelbard** ( ); **Siobhan Meï** and **Jonathan Square** ( ); **Ronald Cummings** and **Linzey Corridon** ( ); **Claudina Sarahe Eusebia Gorashi** ( ); **Marie Cruz Soto** ( ) and **Alexandra Connelly Reyes** ( ); **Melanie Y. White** ( ) and **Nicole Ramsey** ( ); **Orlando Deavila Pertuz** ( )and **Jameelah Imani Morris** ( ); **Fidel Rodríguez Velásquez** ( )and **Oliver Antczak** ( ); **Marie-France Guillaume** ( ) and **Wandred Pierre** ( ); **Dexnell Peters** ( ) and **Philip Morgan** ( ), **C. Damian Valdés Santiago** ( ), **Lorena Hernández Valdés** ( ) and **Sophia Kitlinski** ( )
 
 ### Break
 
 _1:00 PM–1:15 PM_ \| _Snell 160_
 
-### Digital Slame
+### Digital Slam
 
 _12:00 PM–12:15 PM_ \| _Snell 160_  
 Moderator: TBD
@@ -40,11 +40,62 @@ Presenters:
 **Jive Poetic** (St Francis College)
 "Skip Tracer"
 
-Hajjah Lennora Joyce Muti'ah Pierrot, Tuskegee University, "Digital Mothering and Caribbean Memory: Reimagining Archival Storytelling through Embracing Motherly Vibes"
+**Hajjah Lennora Joyce Muti'ah Pierrot** (Tuskegee University) 
+"Digital Mothering and Caribbean Memory: Reimagining Archival Storytelling through Embracing Motherly Vibes"
 
-Katherine Parsons, University of Birmingham, "(Re-)Constituting an Archive with Stuart Hall: A Prototype for the Digital  Representation of Archival Knowledge"
+**Katherine Parsons** (University of Birmingham) 
+"(Re-)Constituting an Archive with Stuart Hall: A Prototype for the Digital  Representation of Archival Knowledge"
 
-Amarlyis Ara, Independent Scholar, "Vesta Cay"
+**Amarlyis Ara** (Independent Scholar) 
+"Vesta Cay"
+
+### Break
+
+_2:25 PM–2:30 PM_ \| _Snell 160_
+
+
+### Caribbean Pedagogies In Motion
+
+_2:30 PM–4:30 PM_ \| _Snell 160_  
+Moderator: **Elizabeth Maddock Dillon** (Northeastern University) and **Alex Gil** (Yale University)
+Presenters:  
+
+**Mila Aponte-González** (University of Puerto Rico–Río Piedras)
+"@rchivos en @cción: digital humanities pedagogy and the praxis of cultural
+management"
+
+**Dalina A. Perdomo Álvarez** (Michigan State University)
+"Vivirse la película: Methods in Puerto Rican Film Studies"
+
+**Jessica Hutchins** (Southern Illinois University)
+"Epistemology in Practice: Digital Pedagogy for Caribbean Literature Using the Texaco Wiki" 
+
+**Enrique Olivares Pesante** (University of California)
+"Accessing the Archive: Accessibility, Language, and Literary Materials in the Puerto Rican Literature Project"
+
+**Amanda Zilla** (University of the West Indies, St. Augustine); **Arvind Singh** (University of the West Indies, St. Augustine); and **Craig J. Ramla** (University of the West Indies)
+"Artificial Approaches to Natural Issues: Environmental Education through AI-Mediated Eco-Cultural Storytelling"
+
+**Tshay Meade** (Independent Scholar)
+"Tell Me When You Get Home: Animation and Worldmaking in the Caribbean Diaspora" 
+
+**Austin Anderson** (Stanford University) and **Paola Yuli** (Howard University)
+"The Archivist: Caribbean Digital Waterworlds"                
+
+### Break
+
+_4:30 PM–4:45 PM_ \| _Snell 160_
+
+
+### Keynote Address
+
+_4:345 PM–6:00 PM_ \| _Snell 160_  
+Moderator: **Nicole Aljoe** (Northeastern University)
+Presenters: 
+**Fiona Compton** (Know Your Caribbean)
+**Leighan Renaud** (University of Bristol)
+“Memory and the Digital” 
+
 
 
 ## Friday, December 6
