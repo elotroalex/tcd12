@@ -109,8 +109,9 @@ Speaker: TBD
 ### Panel A: Re-Imagining Archives
 
 _9:30 AM–11:00 PM_ \| _Snell 160_   
-Moderator: **Reba Dickson** (Northeastern University)
+Moderator: **Reba Dickson** (Northeastern University)   
 Presenters:   
+
 **Grayson Chong** (Independent Scholar)   
 "Bling Bling: Building Digital Dancehall Fashion Archives"   
 
@@ -158,7 +159,7 @@ _12:45 PM–2:00 PM_ \| _Snell 160_
 ### Panel C: Poetics | Visual Aesthetics | Technology.
 
 _2:00 PM–3:30 PM_ \| _Snell 160_   
-Moderator: **Sonya Donaldson** (Colby College)
+Moderator: **Sonya Donaldson** (Colby College)   
 Presenters:   
 
 **Nico Gerardi Rousset** (University of Miami)   
@@ -182,11 +183,11 @@ _3:30 PM–3:45 PM_ \| _Snell 160_
 
 ### Panel D: Caribbean Cartographies and the Digital
 
-_2:00 PM–3:30 PM_ \| _Snell 160_  
+_2:00 PM–3:30 PM_ \| _Snell 160_   
 Moderator: TBD   
-Presenters: 
+Presenters:   
 
-**Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank)      
+**Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank)   
 "1(a) Explore the challenges and opportunities presented by media technologies that reconfigure the social and geopolitical contours of the Caribbean and its diaspora OR 1(b) The connection between digital technologies and practices of Caribbean “folk”"
 
 **Andreina Soto** (UC Santa Barbara)   
@@ -198,11 +199,11 @@ Presenters:
 
 **Randy Browne** (Xavier University)   
 **Linsey McMillan** (University of Edinburgh)   
-**Estherine Adams** (University of Guyana)         
+**Estherine Adams** (University of Guyana)   
 **Michael Henry** (Independent Scholar)   
 "Invisible Migrations: The SS Dewa and Digitally Recovering South Indian Jamaican Identities"   
 
-**Anthony Smith** (Independent Artist)
+**Anthony Smith** (Independent Artist)   
 **Greg Bailey** (Edna Manley College of the Visual and Performing Arts)   
 **Eleanor Nelson** (Edna Manley College of the Visual and Performing Arts/ School of the Art Institute of Chicago)   
 "Mapping, Making, Meaning: A Digital Archive of Jamaican Visual Art Learning"
