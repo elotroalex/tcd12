@@ -16,7 +16,7 @@ Speakers: **Nicole Aljoe** (Northeastern University), **Alex Gil** (Yale Univers
 ### Opening showcase of Microgrant Awardees
 
 _12:15 PM–1:00 PM | Snell 160_  
-Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University)   
+Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University)_   
 Speakers: Kwynn Johnson
 Alexandra P. Gelbard
 Siobhan Meï and Jonathan Square
