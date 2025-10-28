@@ -16,7 +16,7 @@ Speakers: **Nicole Aljoe** (Northeastern University); **Alex Gil** (Yale Univers
 ### Opening showcase of Microgrant Awardees
 
 _12:15 PM–1:00 PM_ \| _Snell 160_  
-Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University)   
+Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (UC Santa Barbara)  
 Speakers: **Kwynn Johnson** ( ); **Alexandra P. Gelbard** ( ); **Siobhan Meï** and **Jonathan Square** ( ); **Ronald Cummings** and **Linzey Corridon** ( ); **Claudina Sarahe Eusebia Gorashi** ( ); **Marie Cruz Soto** ( ) and **Alexandra Connelly Reyes** ( ); **Melanie Y. White** ( ) and **Nicole Ramsey** ( ); **Orlando Deavila Pertuz** ( )and **Jameelah Imani Morris** ( ); **Fidel Rodríguez Velásquez** ( )and **Oliver Antczak** ( ); **Marie-France Guillaume** ( ) and **Wandred Pierre** ( ); **Dexnell Peters** ( ) and **Philip Morgan** ( ), **C. Damian Valdés Santiago** ( ), **Lorena Hernández Valdés** ( ) and **Sophia Kitlinski** ( )
 
 ### Break
@@ -88,79 +88,160 @@ _4:30 PM–4:45 PM_ \| _Snell 160_
 
 ### Keynote Address
 
-_4:345 PM–6:00 PM_ \| _Snell 160_  
+_4:45 PM–6:00 PM_ \| _Snell 160_  
 Moderator: **Nicole Aljoe** (Northeastern University)   
 Presenters:   
 **Fiona Compton** (Know Your Caribbean)   
 **Leighan Renaud** (University of Bristol)   
 “Memory and the Digital”
 
+### Reception   
+_6:00 PM–7:30 PM_ \| _Snell 160_   
 
 
-## Friday, December 6
+## Friday, December 5
 
 ### Opening remarks
 
-_10:30 AM–11:00 AM | N1 Neville Hall Lecture Theatre_  
-**Schuyler Esprit** (The University of the West Indies, Mona), **Silvia Kouwenberg** (Dean, Faculty of Humanities and Education, The University of the West Indies, Mona), **Kelly Baker Josephs** (University of Miami)
+_9:00 AM–9:30 AM_ \| _Snell 160_   
+Speaker: TBD   
 
-### Panel: Slavery and Data
+### Panel A: Re-Imagining Archives
 
-_11:00 AM–12:00 PM | N1_  
-**Jessica Marie Johnson** (Johns Hopkins University), **Dexnell Peters** (The University of the West Indies, Mona), **Celia Naylor** (Barnard College), **Matthew Smith** (University College London)
-Moderator: **Alex Gil**
+_9:30 AM–11:00 PM_ \| _Snell 160_   
+Moderator: **Reba Dickson** (Northeastern University)
+Presenters:   
+**Grayson Chong** (Independent Scholar)   
+"Bling Bling: Building Digital Dancehall Fashion Archives"   
 
-### Break
+**Guadalupe García** (University of California San Diego)   
+"Flowing and Flamboyant’ in Colonial Havana: Radical Contextualization and Digital Re-Assemblage"   
 
-_12:00 PM–12:15 PM_ \| _N1_
+**Pablo D. Herrera Veitia** (Ca'Foscari University of Venice)   
+"Havana’s Floods, Garbage and Some Poetics of Noise Colour"   
 
-### Panel 2: Genealogies, Trajectories, Futures & Institution Building
+**Adriana Morales Diaz** (University of Puerto Rico)      
+"ABC_PR: Un archivo digital de la literatura infantil puertorriquexa de Andres Diaz Marrero"   
 
-_12:15 PM–1:15 PM_ \| _N1_  
-**Luam Stephenson** (Create Caribbean Research Institute), **Stephanie Chancy** (University of Florida), **Julian Cresser** (The University of the West Indies, Mona)
-
-### Lunch
-
-_1:15 PM–2:30 PM_ \| _TBD_
-
-### Closing Dialogue: Reparations in the Digital Age
-
-_2:30 PM–3:30 PM | N1_  
-**Sonjah Stanley Niaah** (The University of the West Indies, Mona), **Alexandre White** (Johns Hopkins University), **Stanley Griffin** (The University of the West Indies, Mona)
-Moderator: **Kaiama Glover**
+**René Cordero** (Williams College)   
+"Opening the Archives-Dominican Republic (OTA-DR)"   
 
 ### Break
 
-_3:30 PM–3:45 PM_ \| _N1_
+_11:00 AM–11:15 AM_ \| _Snell 160_
 
-### 2023 Microgrant showcase
+### Panel B:  Re-imagining Data
 
-_3:45 PM–4:15 PM \| N1_  
-**Alex Gil** and **Mila Aponte** (University of Puerto Rico)
+_11:15 AM–12:45 PM_ \| _Snell 160_  
+Moderator: TBD   
+Presenters:   
 
-### 2024 Microgrant announcements
+**Stina Baudin** (Cranbrook Academy of the Arts)   
+"Black Cartographies"   
 
-_4:15 PM–4:30 PM_ \| _N1_  
-**Andreina Soto** (Yale University)
+**Clareese Hill** (Northeastern University)        
+"Data as a grain of rice – The technology of Resistance During Capture"
 
-### Closing
+**Nadejda Webb** (Johns Hopkins University)   
+"Beyond A Haunting: Indenture, Language, and Representation"   
 
-_4:30 PM–5:00 PM_ \| _N1_
+**Margo Groenewoud** (Independent Scholar & dLOC) and **Lianne Leonora** (Mongui Maduro Library)   
+"From Gordian Knot To Integral Planning: The DH Roadmap"   
 
-### Reception
+**Christine Washington** (University of Maryland)   
+"9Night and Good Mourning"   
 
-_5:30 PM–8:30 PM_ \| _10A Kingston_
+### Lunch & Artist Conversation with Geraldine Rivera
 
-### Artist In Residence presentation
+_12:45 PM–2:00 PM_ \| _Snell 160_   
 
-_10A Kingston_  
-**Zoe Osborne** (Artist in Residence)
-Moderator: **Kelly Baker Josephs**
+### Panel C: Poetics | Visual Aesthetics | Technology.
 
-### A Conversation with Grantees of the Caribbean Culture Fund
+_2:00 PM–3:30 PM_ \| _Snell 160_   
+Moderator: **Sonya Donaldson** (Colby College)
+Presenters:   
 
-_10A Kingston_  
-**Weizman Seide**, **Idris Veitch**, **Kellie Magnus** (Caribbean Cultural Fund)
+**Nico Gerardi Rousset** (University of Miami)   
+"Caribbean Techno-Poetics in the 90's: Kamau Brathwaite, Yucef Merhi and Eduardo Kac"   
+
+**Mikayla Vieira Ribeiro** (Independent Scholar)   
+"Awa Archives and Dutch Caribbean Digital Literary Archives"   
+
+**Kimberly Cross** (Princeton University)   
+"Yearning fi Yaad: Cultural Codes, Emotional Discourse and Digital Nationalism in the Jamaican Diaspora"   
+
+**Roddell Warner** (Independent Visual Artist)   
+"Brief & Candid Notes on Artificial Archive"   
+
+**Luis Prieto** (Yale University) and **Anamely Ramos** (Universidad Iberoamericana de México)   
+"Archives of (INS)Urgency: Spatial Revitalization and Oral History in Cuba"   
+
+### Break
+
+_3:30 PM–3:45 PM_ \| _Snell 160_   
+
+### Panel D: Caribbean Cartographies and the Digital
+
+_2:00 PM–3:30 PM_ \| _Snell 160_  
+Moderator: TBD   
+Presenters: 
+
+**Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank)      
+"1(a) Explore the challenges and opportunities presented by media technologies that reconfigure the social and geopolitical contours of the Caribbean and its diaspora OR 1(b) The connection between digital technologies and practices of Caribbean “folk”"
+
+**Andreina Soto** (UC Santa Barbara)   
+**Clifton Sorrel** (University of Texas)   
+"GeoCimarronaje: Reconstructing the Spatial Histories of Maroon Communities in the Early Modern Spanish Caribbean (1520-1804)"
+  
+**Diana Paton** (University of Edinburgh)   
+"Mapping and Connecting Enslaved People’s Judicial Activism in British Guiana: the ‘Voices in  Slavery’s Archive’ project"   
+
+**Randy Browne** (Xavier University)   
+**Linsey McMillan** (University of Edinburgh)   
+**Estherine Adams** (University of Guyana)         
+**Michael Henry** (Independent Scholar)   
+"Invisible Migrations: The SS Dewa and Digitally Recovering South Indian Jamaican Identities"   
+
+**Anthony Smith** (Independent Artist)
+**Greg Bailey** (Edna Manley College of the Visual and Performing Arts)   
+**Eleanor Nelson** (Edna Manley College of the Visual and Performing Arts/ School of the Art Institute of Chicago)   
+"Mapping, Making, Meaning: A Digital Archive of Jamaican Visual Art Learning"
+
+
+### Break
+
+_5:15 PM–5:30 PM_ \| _Snell 160_   
+
+
+### Alumni Showcase
+
+_5:30 PM–7:00 PM_ \| _Snell 160_  
+Moderator: TBD   
+Presenters:    
+**Samatha Stephens** (University of Virginia)   
+"404 Not Found: Underwater Glitches in M. NourbeSe Philip's Zong!"   
+
+**Sophia Monegro** (Washington University)   
+**Elizabeth Milagro Alvarez** (Columbia University)   
+"Remapping the Plantation in Dominican Society; A Speculative Geography of Mayorasgo de Koka"   
+
+**Nikoli Attai** (Colorado State University)
+**Alessandra Hereman** (University of the West Indies)     
+**Angelique Nixon** (University of the West Indies)   
+**Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)   
+"Digitizing Queer Communities: Building and Managing the Trinidad and Tobago Queer Archives"
+
+**Sharifa Balfour** (Saba Archeological Center Foundation/ Saba Heritage Center)
+"Digitizing Identity: 3D Mapping of Traditional Wooden Cottages on Saba as a Tool for Cultural Safeguarding"
+
+**Tarika Sankar** (Brown University)   
+"Desi Wine, Black Music, and Chutney Beats: Negotiating Digital Diasporic Consciousness  and Indo-Caribbean Identity Through Music on Social Media
+
+
+### Closing Reception
+
+_7:00 PM–8:30 PM_ \| _Snell 160_  
+
 
 §
 
