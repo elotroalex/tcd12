@@ -6,12 +6,38 @@ permalink: /schedule/
 
 ## REMEMBER TO HIT THE PENCIL BUTTON TO EDIT
 
-## Thursday, December 5
+## Thursday, December 4
 
-### Workshop: Minimal Computing for the UWI community
+### Welcome
 
-_2:30 PM–4:30 PM | Pelican Lab_  
-Instructors: **Schuyler Esprit** (Create Caribbean Research Institute-University of the West Indies, Mona), **Alex Gil** (Yale University)
+_12:00 PM–12:15 PM | Snell 160_  
+Speakers: **Nicole Aljoe** (Northeastern University), **Alex Gil** (Yale University), **Kaiama L Glover** (Yale University), **Kelly Baker Josephs** (University of Miami)
+
+### Opening showcase of Microgrant Awardees
+
+_12:15 PM–1:00 PM | Snell 160_  
+Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University
+Speakers: Kwynn Johnson
+Alexandra P. Gelbard
+Siobhan Meï and Jonathan Square
+Ronald Cummings and Linzey Corridon
+Claudina Sarahe Eusebia Gorashi
+Marie Cruz Soto and Alexandra Connelly Reyes
+Melanie Y. White and Nicole Ramsey
+Orlando Deavila Pertuz and Jameelah Imani Morris
+Fidel Rodríguez Velásquez and Oliver Antczak
+Marie-France Guillaume and Wandred Pierre
+Dexnell Peters and Philip Morgan, C. Damian Valdés Santiago, Lorena Hernández Valdés and Sophia Kitlinski
+
+### Break
+
+_1:00 PM–1:15 PM_ \| Snell 160_
+
+### Opening showcase of Microgrant Awardees
+
+_12:00 PM–12:15 PM | Snell 160_  
+Moderator: 
+
 
 ## Friday, December 6
 
