@@ -26,7 +26,7 @@ _1:00 PM–1:15 PM_ \| _Snell 160_
 ### Digital Slam
 
 _12:00 PM–12:15 PM_ \| _Snell 160_  
-Moderator: TBD
+Moderator: TBD   
 Presenters:   
 **Rohan Sagar** (Future Generations University)   
 "Encoding the Ritual: Baboon Dance as a Site of Convergence for Digital Humanities, Computational Ethnomusicology, Data Science, and Cultural Preservation"   
