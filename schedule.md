@@ -29,25 +29,25 @@ _12:00 PM–12:15 PM_ \| _Snell 160_
 Moderator: TBD
 Presenters:   
 **Rohan Sagar** (Future Generations University) 
-"Encoding the Ritual: Baboon Dance as a Site of Convergence for Digital Humanities, Computational Ethnomusicology, Data Science, and Cultural Preservation"
+"Encoding the Ritual: Baboon Dance as a Site of Convergence for Digital Humanities, Computational Ethnomusicology, Data Science, and Cultural Preservation"   
 
 **Mariah Roman** (Bas Fisher Invitational (BFI)GP) 
-"Little Islands"
+"Little Islands"   
 
 **Jazmyn Jamil** (Independent Artist) 
-"Quilted Archives: The Fabrication Of  Truth Through  Reimagined Queer Jamaican Pasts  Through Art And AI"_  
+"Quilted Archives: The Fabrication Of  Truth Through  Reimagined Queer Jamaican Pasts  Through Art And AI"   
 
 **Jive Poetic** (St Francis College)
-"Skip Tracer"
+"Skip Tracer"   
 
 **Hajjah Lennora Joyce Muti'ah Pierrot** (Tuskegee University) 
-"Digital Mothering and Caribbean Memory: Reimagining Archival Storytelling through Embracing Motherly Vibes"
+"Digital Mothering and Caribbean Memory: Reimagining Archival Storytelling through Embracing Motherly Vibes"   
 
 **Katherine Parsons** (University of Birmingham) 
-"(Re-)Constituting an Archive with Stuart Hall: A Prototype for the Digital  Representation of Archival Knowledge"
+"(Re-)Constituting an Archive with Stuart Hall: A Prototype for the Digital  Representation of Archival Knowledge"   
 
 **Amarlyis Ara** (Independent Scholar) 
-"Vesta Cay"
+"Vesta Cay"   
 
 ### Break
 
@@ -57,30 +57,29 @@ _2:25 PM–2:30 PM_ \| _Snell 160_
 ### Caribbean Pedagogies In Motion
 
 _2:30 PM–4:30 PM_ \| _Snell 160_  
-Moderator: **Elizabeth Maddock Dillon** (Northeastern University) and **Alex Gil** (Yale University)
+Moderator: **Elizabeth Maddock Dillon** (Northeastern University) and **Alex Gil** (Yale University)   
 Presenters:  
-
-**Mila Aponte-González** (University of Puerto Rico–Río Piedras)
+**Mila Aponte-González** (University of Puerto Rico–Río Piedras)   
 "@rchivos en @cción: digital humanities pedagogy and the praxis of cultural
-management"
+management"   
 
-**Dalina A. Perdomo Álvarez** (Michigan State University)
-"Vivirse la película: Methods in Puerto Rican Film Studies"
+**Dalina A. Perdomo Álvarez** (Michigan State University)   
+"Vivirse la película: Methods in Puerto Rican Film Studies"  
 
-**Jessica Hutchins** (Southern Illinois University)
+**Jessica Hutchins** (Southern Illinois University)   
 "Epistemology in Practice: Digital Pedagogy for Caribbean Literature Using the Texaco Wiki" 
 
-**Enrique Olivares Pesante** (University of California)
+**Enrique Olivares Pesante** (University of California)   
 "Accessing the Archive: Accessibility, Language, and Literary Materials in the Puerto Rican Literature Project"
 
-**Amanda Zilla** (University of the West Indies, St. Augustine); **Arvind Singh** (University of the West Indies, St. Augustine); and **Craig J. Ramla** (University of the West Indies)
-"Artificial Approaches to Natural Issues: Environmental Education through AI-Mediated Eco-Cultural Storytelling"
+**Amanda Zilla** (University of the West Indies, St. Augustine); **Arvind Singh** (University of the West Indies, St. Augustine); and **Craig J. Ramla** (University of the West Indies)   
+"Artificial Approaches to Natural Issues: Environmental Education through AI-Mediated Eco-Cultural Storytelling"   
 
-**Tshay Meade** (Independent Scholar)
-"Tell Me When You Get Home: Animation and Worldmaking in the Caribbean Diaspora" 
+**Tshay Meade** (Independent Scholar)   
+"Tell Me When You Get Home: Animation and Worldmaking in the Caribbean Diaspora"    
 
-**Austin Anderson** (Stanford University) and **Paola Yuli** (Howard University)
-"The Archivist: Caribbean Digital Waterworlds"                
+**Austin Anderson** (Stanford University) and **Paola Yuli** (Howard University)   
+"The Archivist: Caribbean Digital Waterworlds"   
 
 ### Break
 
@@ -90,11 +89,11 @@ _4:30 PM–4:45 PM_ \| _Snell 160_
 ### Keynote Address
 
 _4:345 PM–6:00 PM_ \| _Snell 160_  
-Moderator: **Nicole Aljoe** (Northeastern University)
-Presenters: 
-**Fiona Compton** (Know Your Caribbean)
-**Leighan Renaud** (University of Bristol)
-“Memory and the Digital” 
+Moderator: **Nicole Aljoe** (Northeastern University)   
+Presenters:   
+**Fiona Compton** (Know Your Caribbean)   
+**Leighan Renaud** (University of Bristol)   
+“Memory and the Digital”
 
 
 
