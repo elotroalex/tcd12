@@ -25,7 +25,7 @@ _1:00 PM–1:15 PM_ \| _Snell 160_
 
 ### Digital Slam
 
-_12:00 PM–12:15 PM_ \| _Snell 160_  
+_1:15 PM–2:15 PM_ \| _Snell 160_  
 Moderator: TBD   
 Presenters:   
 **Rohan Sagar** (Future Generations University)   
@@ -51,7 +51,7 @@ Presenters:
 
 ### Break
 
-_2:25 PM–2:30 PM_ \| _Snell 160_
+_2:15 PM–2:30 PM_ \| _Snell 160_
 
 
 ### Caribbean Pedagogies In Motion
@@ -101,10 +101,12 @@ _6:00 PM–7:30 PM_ \| _Snell 160_
 
 ## Friday, December 5
 
+
 ### Opening remarks
 
 _9:00 AM–9:30 AM_ \| _Snell 160_   
 Speaker: TBD   
+
 
 ### Panel A: Re-Imagining Archives
 
@@ -127,9 +129,11 @@ Presenters:
 **René Cordero** (Williams College)   
 "Opening the Archives-Dominican Republic (OTA-DR)"   
 
+
 ### Break
 
 _11:00 AM–11:15 AM_ \| _Snell 160_
+
 
 ### Panel B:  Re-imagining Data
 
@@ -152,9 +156,11 @@ Presenters:
 **Christine Washington** (University of Maryland)   
 "9Night and Good Mourning"   
 
+
 ### Lunch & Artist Conversation with Geraldine Rivera
 
 _12:45 PM–2:00 PM_ \| _Snell 160_   
+
 
 ### Panel C: Poetics | Visual Aesthetics | Technology.
 
@@ -183,7 +189,7 @@ _3:30 PM–3:45 PM_ \| _Snell 160_
 
 ### Panel D: Caribbean Cartographies and the Digital
 
-_2:00 PM–3:30 PM_ \| _Snell 160_   
+_3:45 PM–5:15 PM_ \| _Snell 160_   
 Moderator: TBD   
 Presenters:   
 
@@ -246,4 +252,4 @@ _7:00 PM–8:30 PM_ \| _Snell 160_
 
 §
 
-Participant short bios can be accessed [on our biographies page](https://docs.google.com/document/d/1xIEQngy30IN1aYW-H1nEk2edz0ioRB-0Yqm8HxSPi9M/edit?tab=t.0).
+Participant short bios can be accessed [on our biographies page](https://docs.google.com/document/d/1ywGzIhJJv8RAu_mXfgzha00iFb8OyJs4Xa9AMqf4A1g/edit?tab=t.0).
