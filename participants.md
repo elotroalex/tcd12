@@ -6,7 +6,8 @@ title: Participants
 # Participants
 
 
-**Estherine Adams**
+**Estherine Adams**   
+Dr. Estherine Adams is a University of Guyana lecturer and head of the the Department of History and Caribbean Studies. Her research interests’ centers on 18th- and 19th-century Atlantic World, British Guiana, the British Colonial Caribbean, and the prisons in British Guiana the with an emphasis on women and gender. She has published several articles and has worked on several projects including the Leicester University project ‘History of the Georgetown Jail’ and the British Academy grant project ‘History and Security Sector Reform.”
 
 
 **Nasika Alliman**   
