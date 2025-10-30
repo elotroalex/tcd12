@@ -17,7 +17,29 @@ Speakers: **Nicole Aljoe** (Northeastern University); **Alex Gil** (Yale Univers
 
 _12:15 PM–1:00 PM_ \| _Snell 160_  
 Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (UC Santa Barbara)  
-Speakers: **Kwynn Johnson** ( ); **Alexandra P. Gelbard** ( ); **Siobhan Meï** and **Jonathan Square** ( ); **Ronald Cummings** and **Linzey Corridon** ( ); **Claudina Sarahe Eusebia Gorashi** ( ); **Marie Cruz Soto** ( ) and **Alexandra Connelly Reyes** ( ); **Melanie Y. White** ( ) and **Nicole Ramsey** ( ); **Orlando Deavila Pertuz** ( )and **Jameelah Imani Morris** ( ); **Fidel Rodríguez Velásquez** ( )and **Oliver Antczak** ( ); **Marie-France Guillaume** ( ) and **Wandred Pierre** ( ); **Dexnell Peters** ( ) and **Philip Morgan** ( ), **C. Damian Valdés Santiago** ( ), **Lorena Hernández Valdés** ( ) and **Sophia Kitlinski** ( )
+Speakers:   
+
+**Kwynn Johnson** (3 Canal Archivist)   
+
+**Alexandra P. Gelbard** (Independent scholar)   
+
+**Siobhan Meï** (University of Massachusetts Amherst ) and **Jonathan Square** (The New School)   
+
+**Ronald Cummings** (McMaster University) and **Linzey Corridon** (McMaster University)   
+
+**Claudina Sarahe Eusebia Gorashi** (Artist)   
+
+**Marie Cruz Soto** (New York University) and **Alexandra Connelly Reyes** (Archivo Histórico de Vieques)   
+
+**Melanie Y. White** (Georgetown University) and **Nicole Ramsey** (University of Texas at Austin)   
+
+**Orlando Deavila Pertuz** (Universidad de Cartagena)and **Jameelah Imani Morris** (Stanford University)   
+
+**Fidel Rodríguez Velásquez** (Pontificia Universidade Católica do Rio de Janeiro) and **Oliver Antczak** (University of Cambridge)   
+
+**Marie-France Guillaume** (Bibliothèque Haïtienne) and **Wandred Pierre** (FIC Bibliothèque Haïtienne FIC)  
+
+**Dexnell Peters** (The University of the West Indies, Mona), **Philip Morgan** (Johns Hopkins University), **C. Damian Valdés Santiago** (Instituto de Literatura y Lingüística “José Antonio Portuondo Valdor), **Lorena Hernández Valdés** (Instituto de Literatura y Lingüística “José Antonio Portuondo Valdor”), and **Sophia Kitlinski** (Yale University)   
 
 ### Break
 
