@@ -48,7 +48,7 @@ _1:00 PM–1:15 PM_ \| _Snell 160_
 ### Digital Slam
 
 _1:15 PM–2:15 PM_ \| _Snell 160_  
-Moderator: TBD   
+Moderator: Tzarina Prater   
 Presenters:   
 **Rohan Sagar** (Future Generations University)   
 "Encoding the Ritual: Baboon Dance as a Site of Convergence for Digital Humanities, Computational Ethnomusicology, Data Science, and Cultural Preservation"   
@@ -113,6 +113,7 @@ _4:30 PM–4:45 PM_ \| _Snell 160_
 _4:45 PM–6:00 PM_ \| _Snell 160_  
 Moderator: **Nicole Aljoe** (Northeastern University)   
 Presenters:   
+
 **Fiona Compton** (Know Your Caribbean)   
 **Leighan Renaud** (University of Bristol)   
 “Memory and the Digital”
@@ -160,7 +161,7 @@ _11:00 AM–11:15 AM_ \| _Snell 160_
 ### Panel B:  Re-imagining Data
 
 _11:15 AM–12:45 PM_ \| _Snell 160_  
-Moderator: TBD   
+Moderator: **Savita Maharaj** (Brandeis University)   
 Presenters:   
 
 **Stina Baudin** (Cranbrook Academy of the Arts)   
@@ -179,7 +180,7 @@ Presenters:
 "9Night and Good Mourning"   
 
 
-### Lunch & Artist Conversation with Geraldine Rivera
+### Lunch 
 
 _12:45 PM–2:00 PM_ \| _Snell 160_   
 
@@ -212,7 +213,7 @@ _3:30 PM–3:45 PM_ \| _Snell 160_
 ### Panel D: Caribbean Cartographies and the Digital
 
 _3:45 PM–5:15 PM_ \| _Snell 160_   
-Moderator: TBD   
+Moderator: **Faith Smith** (Brandeis University)   
 Presenters:   
 
 **Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank)   
@@ -267,7 +268,7 @@ Presenters:
 "Desi Wine, Black Music, and Chutney Beats: Negotiating Digital Diasporic Consciousness  and Indo-Caribbean Identity Through Music on Social Media
 
 
-### Closing Reception
+### Closing Reception- Artist Conversation with Geraldine Rivera
 
 _7:00 PM–8:30 PM_ \| _Snell 160_  
 
