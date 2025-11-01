@@ -5,71 +5,44 @@ title: Travel
 
 # Travel
 
-New Haven, Connecticut is located in the heart of the Northeast Corridor, approximately 70 miles north of New York City and 150 miles south of Boston. Our small dense city of 130,000 includes a thriving downtown with parks, shops, museums, and restaurants, with easy access to beaches, hiking trails, and charming nearby towns.
+Northeastern University’s Boston Campus is easily accessible by air, road, train, and public transit. The conference will be held from December 4-5, 2025 in the Snell Library, room 160 (left side of the library entrance) on the Boston campus at Northeastern University. 
 
 ## Hotel Reservations
 
-The recommended hotel for The Caribbean Digital conference is [The Omni New Haven](https://www.omnihotels.com/hotels/new-haven-yale), where we have secured a group rate. To make a reservation at The Omni New Haven, please call the number is 800-843-6664.
-
-## Driving Directions
-
-### From Interstate 95
-
-Take I-95 N to New Haven. Exit 47 from I-95 N. The drive is about an
-hour and a half from New York City on low traffic. During hours of peak
-traffic it can last between three and four hours.
-
-### From Route 15
-
-Take exit 60. Drive south on Dixwell Avenue for about five miles until
-you reach York Street. The drive is about an hour and a half from New
-York City on low traffic. During hours of peak traffic this way is
-preferred to I-95.
-
-## Parking
-
-Due to our location in an urban environment, we cannot guarantee
-available parking.
-
-_On-street metered parking_ is available almost everywhere. *Off-street parking* is also available nearby. The Chapel-York Garage (65 Grove Street) is a private parking garages located within walking distance of the Humanities Quadrangle.
-
-Visit the [Yale visitor parking](https://your.yale.edu/work-yale/campus-services/parking-and-transportation-options/parking/visitor-parking) website or the [City of New Haven (link is external)](http://nhparking.com/) website for more information and to view area parking maps.
-
-## By Train or Bus
-
-Union Station is minutes from the Yale campus. [Metro-North](https://new.mta.info/agency/metro-north-railroad) offers frequent train service between New Haven and New York City. [Amtrak](https://www.amtrak.com/home.html) provides train service to New Haven from Vermont, Providence, and Boston to the north, and from Washington, D.C., to the south, at prices that are competitive with air travel. Union Station is also a [Greyhound](http://www.greyhound.com/home/) (203-772-2470) bus terminal. Once you reach Union Station, we suggest that you use a local taxi service to reach the Yale campus. (There's a taxi stand at the station.) A taxi will cost about \$10. Local shuttle and [bus services](http://www.cttransit.com/RoutesSchedules/SystemMapDisplay.asp) are also available for travel between Union Station and Yale.
+We are providing hotel accommodations for **presenters** at the [Sheraton Boston Hotel](https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0), 15-20 minutes walking distance from the Snell Library. 
 
 ## By Airplane
 
-### New York City
+Northeastern University is a 30-40 minute transit or taxi ride from [Boston Logan International Airport](https://www.massport.com/logan-airport).
+Two free public transit options will take you from Logan Airport to downtown Boston:   
+- [MBTA Silver Line](https://www.mbta.com/schedules/741/line) – a rapid transit bus that will pick you up curbside at the airport terminals and connects to South Station where you can transfer to the subway system by walking to Chinatown Orange line stop.   
+- [Logan Express](https://www.massport.com/logan-airport/getting-to-logan/logan-express) – a shuttle that will drop you off in Back Bay, within walking distance of Northeastern and the Sheraton Hotel.
 
-New York and New Jersey options assume you will make your way from your
-chosen airport to New Haven by train.
+There is also a light-rail only option from Logan Airport (requires payment of fare at Airport Station):   
+- **MBTA Airport Station to Light Rail** – take the Blue Line from Airport Station and switch to the Orange Line at State Street to arrive at Ruggles Station   
+Bus services also connect Boston to **Manchester Regional Airport (New Hampshire)** and **Providence T.F. Green Airport (Rhode Island)** for travelers who may have an easier connection via these airports.
 
-- **Kennedy International Airport** (JFK), 80 miles from campus in New
-  York City, NY.  
-  Connects to Metro North Grand Central via the Long Island Railroad or the E Train at Jamaica train station; [GO Airport Shuttle](http://www.2theairport.com/) (866-284-3247) offers private shuttle services.
 
-- **LaGuardia International Airport** (LGA), 72 miles from campus in New
-  York City, NY.  
-  LGA connects to Metro North at 125<sup>th</sup> Station via the M60 Bus or a
-  taxi;
+## BY PUBLIC TRANSIT
 
-- **Newark International Airport** (EWR), 92 miles from campus in Newark,
-  NJ.  
-  Amtrak provides direct train service from Newark airport to New
-  Haven's Union Station.
+Northeastern University has two MBTA public transit stations within a 1-minute walk of the campus:   
+- Northeastern University stop on the Green Line   
+- Ruggles Station on the Orange Line.   
+These two lines connect riders to downtown as well as western and northern neighborhoods of greater Boston.
 
-### New Haven
 
-- **Tweed New Haven Airport** (HVN), 4 miles from campus, served by [Avelo Airlines](https://www.aveloair.com/).  
-  A very convenient option, but very few flights available.
+## By TRAIN 
 
-### Hartford
+Amtrak connects Boston with many other cities in the Eastern US via **Boston’s South Station** or **Back Bay Station**, major train terminals where riders can transfer to the **MBTA Red Line or Orange Line**, respectively, for connections to the rest of the city.  From South Station, you can connect to Ruggles Station on the Commuter Rail for the same cost as a subway fare. From Back Bay Station you can connect to Ruggles Station on the Orange Line directly.
+Commuter rail service operated by the MBTA also connects Boston to other regional urban centers.
 
-- **Hartford/Springfield Bradley International Airport** (BDL), 53 miles
-  from campus in Windsor Locks, CT.  
-  The closest option, next to Tweed.
-  You might have to rent a car or take an (expensive) taxi or ride
-  share from this location. Considering the added cost to this option,
-  we cannot cover your expenses.
+
+## PARKING
+
+Multiple public parking garages are available on/adjacent to Northeastern’s Campus, with parking available at daily rates. The Renaissance Park Garage [835 Columbus Ave](https://www.google.com/maps/place/LAZ+Parking+-+NU+-+Renaissance+Park+Garage/@42.336323,-71.0883866,664m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e37b2e78d1c1cd:0x2cc09f9342a8f35e!8m2!3d42.336323!4d-71.0883866!16s%2Fg%2F11j1bnc05p?entry=ttu&g_ep=EgoyMDI1MTAyOS4xIKXMDSoASAFQAw%3D%3D) provides easy access to the conference venues via a pedestrian overpass at Ruggles Station.
+
+
+
+
+
+
