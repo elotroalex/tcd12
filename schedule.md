@@ -273,7 +273,7 @@ Presenters:
 _7:00 PM–8:30 PM_ \| _Snell 160_  
 Moderator: **Rosamund King** (Brooklyn College)   
 Presenters:   
-**Geraldine Rivera** 
+**Geraldine Rivera** (University of Valencia)
 §
 
 Participant short bios can be accessed [on our biographies page](https://docs.google.com/document/d/1ywGzIhJJv8RAu_mXfgzha00iFb8OyJs4Xa9AMqf4A1g/edit?tab=t.0).
