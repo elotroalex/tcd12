@@ -31,7 +31,7 @@ Northeastern University has two MBTA public transit stations within a 1-minute w
 These two lines connect riders to downtown as well as western and northern neighborhoods of greater Boston.
 
 
-## By TRAIN 
+## BY TRAIN 
 
 Amtrak connects Boston with many other cities in the Eastern US via **Boston’s South Station** or **Back Bay Station**, major train terminals where riders can transfer to the **MBTA Red Line or Orange Line**, respectively, for connections to the rest of the city.  From South Station, you can connect to Ruggles Station on the Commuter Rail for the same cost as a subway fare. From Back Bay Station you can connect to Ruggles Station on the Orange Line directly.
 Commuter rail service operated by the MBTA also connects Boston to other regional urban centers.
