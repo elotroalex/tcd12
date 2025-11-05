@@ -246,7 +246,7 @@ _5:15 PM–5:30 PM_ \| _Snell 160_
 ### Alumni Showcase
 
 _5:30 PM–7:00 PM_ \| _Snell 160_  
-Moderator: TBD   
+Moderator: **Kaiama Glover** (Yale University)   
 Presenters:    
 **Samatha Stephens** (University of Virginia)   
 "404 Not Found: Underwater Glitches in M. NourbeSe Philip's Zong!"   
