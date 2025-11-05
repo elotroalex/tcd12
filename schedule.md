@@ -255,13 +255,13 @@ Presenters:
 **Elizabeth Milagro Alvarez** (Columbia University)   
 "Remapping the Plantation in Dominican Society; A Speculative Geography of Mayorasgo de Koka"   
 
-**Nikoli Attai** (Colorado State University)
+**Nikoli Attai** (Colorado State University)   
 **Alessandra Hereman** (University of the West Indies)     
 **Angelique Nixon** (University of the West Indies)   
 **Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)   
 "Digitizing Queer Communities: Building and Managing the Trinidad and Tobago Queer Archives"
 
-**Sharifa Balfour** (Saba Archeological Center Foundation/ Saba Heritage Center)
+**Sharifa Balfour** (Saba Archeological Center Foundation/ Saba Heritage Center)   
 "Digitizing Identity: 3D Mapping of Traditional Wooden Cottages on Saba as a Tool for Cultural Safeguarding"
 
 **Tarika Sankar** (Brown University)   
@@ -271,8 +271,9 @@ Presenters:
 ### Closing Reception- Artist Conversation with Geraldine Rivera
 
 _7:00 PM–8:30 PM_ \| _Snell 160_  
-
-
+Moderator: **Rosamund King** (Brooklyn College)   
+Presenters:   
+**Geraldine Rivera** 
 §
 
 Participant short bios can be accessed [on our biographies page](https://docs.google.com/document/d/1ywGzIhJJv8RAu_mXfgzha00iFb8OyJs4Xa9AMqf4A1g/edit?tab=t.0).
