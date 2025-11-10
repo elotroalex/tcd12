@@ -14,7 +14,7 @@ Speakers: **Nicole Aljoe** (Northeastern University); **Alex Gil** (Yale Univers
 ### Opening showcase of Microgrant Awardees
 
 _12:15 PM–1:00 PM_ \| _Snell 160_  
-Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (UC Santa Barbara)  
+Moderator: **Alex Gil** (Yale University) and **Andreina Soto** (Yale University/UC Santa Barbara)  
 Speakers:
 
 **Kwynn Johnson** (3 Canal Archivist)
@@ -31,13 +31,15 @@ Speakers:
 
 **Melanie Y. White** (Georgetown University) and **Nicole Ramsey** (University of Texas at Austin)
 
-**Orlando Deavila Pertuz** (Universidad de Cartagena)and **Jameelah Imani Morris** (Stanford University)
+**Orlando Deavila Pertuz** (Universidad de Cartagena) and **Jameelah Imani Morris** (Stanford University)
 
 **Fidel Rodríguez Velásquez** (Pontificia Universidade Católica do Rio de Janeiro) and **Oliver Antczak** (University of Cambridge)
 
 **Marie-France Guillaume** (Bibliothèque Haïtienne) and **Wandred Pierre** (FIC Bibliothèque Haïtienne FIC)
 
-**Dexnell Peters** (The University of the West Indies, Mona), **Philip Morgan** (Johns Hopkins University), **C. Damian Valdés Santiago** (Instituto de Literatura y Lingüística “José Antonio Portuondo Valdor), **Lorena Hernández Valdés** (Instituto de Literatura y Lingüística “José Antonio Portuondo Valdor”), and **Sophia Kitlinski** (Yale University)
+**Dexnell Peters** (The University of the West Indies, Mona) and **Philip Morgan** (Johns Hopkins University)
+
+**C. Damian Valdés Santiago** (Instituto de Literatura y Lingüística “José Antonio Portuondo Valdor), **Lorena Hernández Valdés** (Instituto de Literatura y Lingüística “José Antonio Portuondo Valdor”), and **Sophia Kitlinski** (Yale University)
 
 ### Break
 
@@ -109,7 +111,6 @@ _4:30 PM–4:45 PM_ \| _Snell 160_
 _4:45 PM–6:00 PM_ \| _Snell 160_  
 Moderator: **Nicole Aljoe** (Northeastern University)  
 Presenters:
-
 **Fiona Compton** (Know Your Caribbean)  
 **Leighan Renaud** (University of Bristol)  
 “Memory and the Digital”
@@ -155,7 +156,6 @@ _11:00 AM–11:15 AM_ \| _Snell 160_
 _11:15 AM–12:45 PM_ \| _Snell 160_  
 Moderator: **Savita Maharaj** (Brandeis University)  
 Presenters:
-
 **Stina Baudin** (Cranbrook Academy of the Arts)  
 "Black Cartographies"
 
@@ -205,20 +205,16 @@ _3:30 PM–3:45 PM_ \| _Snell 160_
 _3:45 PM–5:15 PM_ \| _Snell 160_  
 Moderator: **Faith Smith** (Brandeis University)  
 Presenters:
-
 **Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank) will explore the challenges and opportunities presented by media technologies that reconfigure the social and geopolitical contours of the Caribbean and its diaspora OR 1(b) The connection between digital technologies and practices of Caribbean “folk.”
 
-**Andreina Soto** (UC Santa Barbara)  
+**Andreina Soto** (Yale/UC Santa Barbara)  
 **Clifton Sorrel** (University of Texas)  
 "GeoCimarronaje: Reconstructing the Spatial Histories of Maroon Communities in the Early Modern Spanish Caribbean (1520-1804)"
 
 **Diana Paton** (University of Edinburgh)  
 "Mapping and Connecting Enslaved People’s Judicial Activism in British Guiana: the ‘Voices in Slavery’s Archive’ project"
 
-**Randy Browne** (Xavier University)  
-**Linsey McMillan** (University of Edinburgh)  
-**Estherine Adams** (University of Guyana)  
-**Michael Henry** (Independent Scholar)  
+**Randy Browne** (Xavier University), **Linsey McMillan** (University of Edinburgh), **Estherine Adams** (University of Guyana), and **Michael Henry** (Independent Scholar)  
 "Invisible Migrations: The SS Dewa and Digitally Recovering South Indian Jamaican Identities"
 
 **Anthony Smith** (Independent Artist)  
@@ -238,14 +234,10 @@ Presenters:
 **Samatha Stephens** (University of Virginia)  
 "404 Not Found: Underwater Glitches in M. NourbeSe Philip's Zong!"
 
-**Sophia Monegro** (Washington University)  
-**Elizabeth Milagro Alvarez** (Columbia University)  
-"Remapping the Plantation in Dominican Society; A Speculative Geography of Mayorasgo de Koka"
+**Sophia Monegro** (Washington University) and **Elizabeth Milagro Alvarez** (Columbia University)  
+"Remapping the Plantation in Dominican Society: A Speculative Geography of Mayorasgo de Koka"
 
-**Nikoli Attai** (Colorado State University)  
-**Alessandra Hereman** (University of the West Indies)  
-**Angelique Nixon** (University of the West Indies)  
-**Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)  
+**Nikoli Attai** (Colorado State University), **Alessandra Hereman** (University of the West Indies), **Angelique Nixon** (University of the West Indies), and **Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)  
 "Digitizing Queer Communities: Building and Managing the Trinidad and Tobago Queer Archives"
 
 **Sharifa Balfour** (Saba Archeological Center Foundation/ Saba Heritage Center)  
@@ -259,7 +251,7 @@ Presenters:
 _7:00 PM–8:30 PM_ \| _Snell 160_  
 Moderator: **Rosamund King** (Brooklyn College)  
 Presenters:  
-**Geraldine Rivera** (Lonely Hearts Essay Club)  
+**Geraldine Rivera** (2025 TCD Artist in Residence)  
 §
 
 Participant short bios can be accessed on our [biographies page](https://docs.google.com/document/d/1ywGzIhJJv8RAu_mXfgzha00iFb8OyJs4Xa9AMqf4A1g/edit?tab=t.0).
