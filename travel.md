@@ -11,6 +11,8 @@ Northeastern University’s Boston Campus is easily accessible by air, road, tra
 
 We are providing hotel accommodations for **presenters** at the [Sheraton Boston Hotel](https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0), 15-20 minutes walking distance from the Snell Library. 
 
+If you wish to attend TCD XII in Boston, you may reserve a room by calling Marriott Reservations at 1-800-325-3535 or 617-236-2000 by November 20, 2025, to confirm your sleeping arrangements. Use the [registration website](https://book.passkey.com/go/CaribbeanDigitalScholarship) to access a discounted rate. Each guest will be responsible for all room, tax, and incidental charges and will be asked to provide a credit card when making the reservation. 
+
 ## By Airplane
 
 Northeastern University is a 30-40 minute transit or taxi ride from [Boston Logan International Airport](https://www.massport.com/logan-airport).
