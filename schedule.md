@@ -68,9 +68,6 @@ Presenters:
 **Katherine Parsons** (University of Birmingham)  
 "(Re-)Constituting an Archive with Stuart Hall: A Prototype for the Digital Representation of Archival Knowledge"
 
-**Amarlyis Ara** (Independent Scholar)  
-"Vesta Cay"
-
 ### Break
 
 _2:15 PM–2:30 PM_ \| _Snell 160_
@@ -156,7 +153,7 @@ _11:00 AM–11:15 AM_ \| _Snell 160_
 _11:15 AM–12:45 PM_ \| _Snell 160_  
 Moderator: **Savita Maharaj** (Brandeis University)  
 Presenters:
-**Stina Baudin** (Cranbrook Academy of the Arts)  
+**Christin Baudin** (Cranbrook Academy of the Arts)  
 "Black Cartographies"
 
 **Clareese Hill** (Northeastern University)  
@@ -211,15 +208,13 @@ Presenters:
 **Clifton Sorrel** (University of Texas)  
 "GeoCimarronaje: Reconstructing the Spatial Histories of Maroon Communities in the Early Modern Spanish Caribbean (1520-1804)"
 
-**Diana Paton** (University of Edinburgh)  
+**Diana Paton** (University of Edinburgh), **Randy Browne** (Xavier University), **Linsey McMillan** (University of Edinburgh), **Estherine Adams** (University of Guyana)   
 "Mapping and Connecting Enslaved People’s Judicial Activism in British Guiana: the ‘Voices in Slavery’s Archive’ project"
 
-**Randy Browne** (Xavier University), **Linsey McMillan** (University of Edinburgh), **Estherine Adams** (University of Guyana), and **Michael Henry** (Independent Scholar)  
+**Michael Henry** (Independent Scholar)  
 "Invisible Migrations: The SS Dewa and Digitally Recovering South Indian Jamaican Identities"
 
-**Anthony Smith** (Independent Artist)  
-**Greg Bailey** (Edna Manley College of the Visual and Performing Arts)  
-**Eleanor Nelson** (Edna Manley College of the Visual and Performing Arts/ School of the Art Institute of Chicago)  
+**Anthony Smith** (Independent Artist), **Greg Bailey** (Edna Manley College of the Visual and Performing Arts), **Eleanor Nelson** (Edna Manley College of the Visual and Performing Arts/ School of the Art Institute of Chicago)   
 "Mapping, Making, Meaning: A Digital Archive of Jamaican Visual Art Learning"
 
 ### Break
@@ -234,10 +229,10 @@ Presenters:
 **Samatha Stephens** (University of Virginia)  
 "404 Not Found: Underwater Glitches in M. NourbeSe Philip's Zong!"
 
-**Sophia Monegro** (Washington University) and **Elizabeth Milagro Alvarez** (Columbia University)  
+**Sophia Monegro** (Washington University) and **Elizabeth Milagro Alvarez** (Columbia University)   
 "Remapping the Plantation in Dominican Society: A Speculative Geography of Mayorasgo de Koka"
 
-**Nikoli Attai** (Colorado State University), **Alessandra Hereman** (University of the West Indies), **Angelique Nixon** (University of the West Indies), and **Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)  
+**Nikoli Attai** (Colorado State University), **Alessandra Hereman** (University of the West Indies), **Angelique Nixon** (University of the West Indies), and **Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)   
 "Digitizing Queer Communities: Building and Managing the Trinidad and Tobago Queer Archives"
 
 **Sharifa Balfour** (Saba Archeological Center Foundation/ Saba Heritage Center)  
