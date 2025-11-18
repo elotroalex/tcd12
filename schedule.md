@@ -208,13 +208,13 @@ Presenters:
 **Clifton Sorrel** (University of Texas)  
 "GeoCimarronaje: Reconstructing the Spatial Histories of Maroon Communities in the Early Modern Spanish Caribbean (1520-1804)"
 
-**Diana Paton** (University of Edinburgh), **Randy Browne** (Xavier University), **Linsey McMillan** (University of Edinburgh), **Estherine Adams** (University of Guyana)   
+**Diana Paton** (University of Edinburgh), **Randy Browne** (Xavier University), **Linsey McMillan** (University of Edinburgh), **Estherine Adams** (University of Guyana)  
 "Mapping and Connecting Enslaved People’s Judicial Activism in British Guiana: the ‘Voices in Slavery’s Archive’ project"
 
 **Michael Henry** (Independent Scholar)  
 "Invisible Migrations: The SS Dewa and Digitally Recovering South Indian Jamaican Identities"
 
-**Anthony Smith** (Independent Artist), **Greg Bailey** (Edna Manley College of the Visual and Performing Arts), **Eleanor Nelson** (Edna Manley College of the Visual and Performing Arts/ School of the Art Institute of Chicago)   
+**Anthony Smith** (Independent Artist), **Greg Bailey** (Edna Manley College of the Visual and Performing Arts), **Eleanor Nelson** (Edna Manley College of the Visual and Performing Arts/ School of the Art Institute of Chicago)  
 "Mapping, Making, Meaning: A Digital Archive of Jamaican Visual Art Learning"
 
 ### Break
@@ -229,10 +229,10 @@ Presenters:
 **Samatha Stephens** (University of Virginia)  
 "404 Not Found: Underwater Glitches in M. NourbeSe Philip's Zong!"
 
-**Sophia Monegro** (Washington University) and **Elizabeth Milagro Alvarez** (Columbia University)   
+**Sophia Monegro** (Washington University) and **Elizabeth Milagro Alvarez** (Columbia University)  
 "Remapping the Plantation in Dominican Society: A Speculative Geography of Mayorasgo de Koka"
 
-**Nikoli Attai** (Colorado State University), **Alessandra Hereman** (University of the West Indies), **Angelique Nixon** (University of the West Indies), and **Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)   
+**Nikoli Attai** (Binghamton University), **Alessandra Hereman** (University of the West Indies), **Angelique Nixon** (University of the West Indies), and **Cathy Shepherd** (CAISO: Sex and Gender Justice Trinidad and Tobago)  
 "Digitizing Queer Communities: Building and Managing the Trinidad and Tobago Queer Archives"
 
 **Sharifa Balfour** (Saba Archeological Center Foundation/ Saba Heritage Center)  
