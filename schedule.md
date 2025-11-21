@@ -9,7 +9,7 @@ permalink: /schedule/
 ### Welcome
 
 _12:00 PM–12:15 PM_ \| _Snell 160_  
-Speakers: **Nicole Aljoe** (Northeastern University); **Alex Gil** (Yale University); **Kaiama L Glover** (Yale University); **Kelly Baker Josephs** (University of Miami)
+Speakers: **Elizabeth Maddock Dillon** (Northeastern University); **Kelly Baker Josephs** (University of Miami); 
 
 ### Opening showcase of Microgrant Awardees
 
@@ -121,7 +121,9 @@ _6:00 PM–7:30 PM_ \| _Snell 160_
 ### Opening remarks
 
 _9:00 AM–9:30 AM_ \| _Snell 160_  
-Speaker: TBD
+Speaker: 
+Welcome Remarks **Nicole Aljoe** (Northeastern University)   
+Tribute to Dr. Angel David Nieves by **Reba Dickson** (Northeastern University) and **Savita Maharjah** (Northeastern University)  
 
 ### Panel A: Re-Imagining Archives
 
