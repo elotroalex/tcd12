@@ -155,7 +155,7 @@ _11:00 AM–11:15 AM_ \| _Snell 160_
 _11:15 AM–12:45 PM_ \| _Snell 160_  
 Moderator: **Savita Maharaj** (Brandeis University)  
 Presenters:
-**Christin Baudin** (Cranbrook Academy of the Arts)  
+**Stina Baudin** (Cranbrook Academy of the Arts)  
 "Black Cartographies"
 
 **Clareese Hill** (Northeastern University)  
@@ -167,7 +167,7 @@ Presenters:
 **Margo Groenewoud** (Independent Scholar & dLOC) and **Lianne Leonora** (Mongui Maduro Library)  
 "From Gordian Knot To Integral Planning: The DH Roadmap"
 
-**Christine Washington** (University of Maryland)  
+**Christin Washington** (University of Maryland)  
 "9Night and Good Mourning"
 
 ### Lunch
