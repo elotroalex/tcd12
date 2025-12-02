@@ -9,7 +9,7 @@ permalink: /schedule/
 ### Welcome
 
 _12:00 PM–12:15 PM_ \| _Snell 160_  
-Speakers: **Elizabeth Maddock Dillon** (Northeastern University); **Kelly Baker Josephs** (University of Miami); 
+Speakers: **Elizabeth Maddock Dillon** (Northeastern University); **Kelly Baker Josephs** (University of Miami); and **Julia Flanders** (Director, Digital Scholarship Group, Northeastern University)   
 
 ### Opening showcase of Microgrant Awardees
 
@@ -122,8 +122,9 @@ _6:00 PM–7:30 PM_ \| _Snell 160_
 
 _9:00 AM–9:30 AM_ \| _Snell 160_  
 Speaker: 
-Welcome Remarks **Nicole Aljoe** (Northeastern University)   
+Welcome Remarks **Nicole Aljoe** (Northeastern University) and **Ellen Kushman** (Co-director, NULab for Digital Humanities and Computational Social Science, Northeastern University)   
 Tribute to Dr. Angel David Nieves by **Reba Dickson** (Northeastern University) 
+
 
 ### Panel A: Re-Imagining Archives
 
