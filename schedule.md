@@ -204,7 +204,8 @@ _3:30 PM–3:45 PM_ \| _Snell 160_
 _3:45 PM–5:15 PM_ \| _Snell 160_  
 Moderator: **Faith Smith** (Brandeis University)  
 Presenters:
-**Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank) will explore the challenges and opportunities presented by media technologies that reconfigure the social and geopolitical contours of the Caribbean and its diaspora OR 1(b) The connection between digital technologies and practices of Caribbean “folk.”
+**Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank)   
+"Digital Sovereignty and Cultural Survival"
 
 **Andreina Soto** (Yale/UC Santa Barbara)  
 **Clifton Sorrel** (University of Texas)  
