@@ -123,7 +123,7 @@ _6:00 PM–7:30 PM_ \| _Snell 160_
 _9:00 AM–9:30 AM_ \| _Snell 160_  
 Speaker: 
 Welcome Remarks **Nicole Aljoe** (Northeastern University)   
-Tribute to Dr. Angel David Nieves by **Reba Dickson** (Northeastern University) and **Savita Maharjah** (Northeastern University)  
+Tribute to Dr. Angel David Nieves by **Reba Dickson** (Northeastern University) 
 
 ### Panel A: Re-Imagining Archives
 
