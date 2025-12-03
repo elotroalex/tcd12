@@ -122,7 +122,7 @@ _6:00 PM–7:30 PM_ \| _Snell 160_
 
 _9:00 AM–9:30 AM_ \| _Snell 160_  
 Speaker: 
-Welcome Remarks **Nicole Aljoe** (Northeastern University) and **Ellen Kushman** (Co-director, NULab for Digital Humanities and Computational Social Science, Northeastern University)   
+Welcome Remarks **Nicole Aljoe** (Northeastern University) and **Ellen Cushman** (Co-director, NULab for Digital Humanities and Computational Social Science, Northeastern University)   
 Tribute to Dr. Angel David Nieves by **Reba Dickson** (Northeastern University) 
 
 
