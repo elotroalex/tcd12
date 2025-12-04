@@ -9,7 +9,7 @@ permalink: /schedule/
 ### Welcome
 
 _12:00 PM–12:15 PM_ \| _Snell 160_  
-Speakers: **Elizabeth Maddock Dillon** (Northeastern University); **Kelly Baker Josephs** (University of Miami); and **Julia Flanders** (Director, Digital Scholarship Group, Northeastern University)   
+Speakers: **Elizabeth Maddock Dillon** (Northeastern University); **Kelly Baker Josephs** (University of Miami); and **Julia Flanders** (Director, Digital Scholarship Group, Northeastern University)
 
 ### Opening showcase of Microgrant Awardees
 
@@ -121,10 +121,9 @@ _6:00 PM–7:30 PM_ \| _Snell 160_
 ### Opening remarks
 
 _9:00 AM–9:30 AM_ \| _Snell 160_  
-Speaker: 
-Welcome Remarks **Nicole Aljoe** (Northeastern University) and **Ellen Kushman** (Co-director, NULab for Digital Humanities and Computational Social Science, Northeastern University)   
-Tribute to Dr. Angel David Nieves by **Reba Dickson** (Northeastern University) 
-
+Speaker:
+Welcome Remarks **Nicole Aljoe** (Northeastern University) and **Ellen Kushman** (Co-director, NULab for Digital Humanities and Computational Social Science, Northeastern University)  
+Tribute to Dr. Angel David Nieves by **Reba Dickson** (Northeastern University)
 
 ### Panel A: Re-Imagining Archives
 
@@ -205,7 +204,7 @@ _3:30 PM–3:45 PM_ \| _Snell 160_
 _3:45 PM–5:15 PM_ \| _Snell 160_  
 Moderator: **Faith Smith** (Brandeis University)  
 Presenters:
-**Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank)   
+**Nasika Alliman** (African Caribbean Institute of Jamaica / Jamaica Memory Bank)  
 "Digital Sovereignty and Cultural Survival"
 
 **Andreina Soto** (Yale/UC Santa Barbara)  
@@ -228,7 +227,7 @@ _5:15 PM–5:30 PM_ \| _Snell 160_
 ### Alumni Showcase
 
 _5:30 PM–7:00 PM_ \| _Snell 160_  
-Moderator: **Kaiama Glover** (Yale University)  
+Moderator: **Kaiama L. Glover** (Yale University)  
 Presenters:  
 **Samatha Stephens** (University of Virginia)  
 "404 Not Found: Underwater Glitches in M. NourbeSe Philip's Zong!"
